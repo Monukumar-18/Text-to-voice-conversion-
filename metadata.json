@@ -1,0 +1,6 @@
+{
+  "name": "PulseFit - Fitness & Nutrition Tracker with AI Audio Coach",
+  "description": "Track personal fitness goals, log daily meals and macros, and receive personalized nutritional insights and daily spoken audio briefings powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
